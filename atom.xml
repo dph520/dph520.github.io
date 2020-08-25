@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dph520.github.io/</id>
-    <title>XJY</title>
-    <updated>2020-08-25T08:43:46.794Z</updated>
+    <title></title>
+    <updated>2020-08-25T09:06:19.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dph520.github.io/"/>
     <link rel="self" href="https://dph520.github.io/atom.xml"/>
     <logo>https://dph520.github.io/images/avatar.png</logo>
     <icon>https://dph520.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, XJY</rights>
+    <rights>All rights reserved 2020, </rights>
     <entry>
         <title type="html"><![CDATA[22]]></title>
         <id>https://dph520.github.io/post/22/</id>
